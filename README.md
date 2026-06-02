@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Kamil Mahomedov
 
-<!--
-**KamilMagomedov/KamilMagomedov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Front-End Developer** based in London, UK.
 
-Here are some ideas to get you started:
+## 🚀 What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Build responsive, high-performance web applications with **React, TypeScript, and Next.js**
+- Focus on clean code, performance optimisation, and great user experience
+- 4+ years of commercial experience (Ukraine) + professional development in the UK
+
+## 🛠️ Tech Stack
+
+- **Core:** React, Next.js, TypeScript, JavaScript
+- **State:** Redux Toolkit
+- **Styling:** Tailwind CSS, SCSS, BEM
+- **Tools:** Git, Webpack, Vite, Jest
+- **APIs:** REST, AWS (basics)
+
+## 📫 How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/kamil-mahomedov/)
+- [Email](kamil.mag1990@gmail.com)
+
+## 📌 Featured Projects
+
+Check out my pinned repositories below 👇
