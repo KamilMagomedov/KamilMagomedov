@@ -19,7 +19,7 @@
 ## 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/kamil-mahomedov/)
-- [Email](kamil.mag1990@gmail.com)
+- [Email](mailto:kamil.mag1990@gmail.com)
 
 ## 📌 Featured Projects
 
