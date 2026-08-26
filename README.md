@@ -20,6 +20,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/kamil-mahomedov/)
 - [Email](mailto:kamil.mag1990@gmail.com)
+- [Blog](https://blog-ten-rho-43.vercel.app/)
 
 ## 📌 Featured Projects
 
