@@ -4,7 +4,15 @@
 
 ## 🚀 About Me
 
-Frontend Developer with over 7 years of professional experience designing, developing, and maintaining modern web applications, alongside ongoing freelance development work since 2024. Highly skilled in React, React Native, TypeScript, JavaScript, Next.js, and Redux Toolkit, with a strong focus on creating responsive, high-performance user interfaces. Experienced in frontend optimisation, API integration, state management, and complex interactive features. Adept at collaborating with clients and development teams to deliver scalable, user-focused web and mobile solutions in agile environments.
+Frontend Developer based in London, UK, specialising in React, JavaScript, TypeScript and modern web applications.
+
+At ScrumLaunch, I worked on an interactive visual editor built with React, Fabric.js and HTML5 Canvas. My experience includes complex UI development, JavaScript-to-React migration, performance optimisation, AWS Lambda integration and mentoring junior developers.
+
+I also work on freelance web and mobile projects using React, React Native, TypeScript and Next.js, developing reusable components, integrating REST APIs and building responsive user interfaces.
+
+My latest project is a deployed full-stack portfolio blog built with Next.js, TypeScript, PostgreSQL (Neon) and Vercel, including automated testing and CI checks with GitHub Actions.
+
+Currently open to Frontend / React / Next.js Developer opportunities across the UK.
 
 ## 🛠 Tech Stack
 
