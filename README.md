@@ -4,18 +4,14 @@
 
 ## 🚀 About Me
 
-- 4 years of professional frontend development experience, with commercial experience in **React, JavaScript, Redux and Redux Toolkit**
-- Worked on **JavaScript-to-React migration, frontend performance optimisation, and complex interactive UI development**
-- Currently building and deploying applications with **TypeScript and Next.js**
-- Experienced with interactive browser-based interfaces using **Fabric.js and HTML5 Canvas**
-- Right to work in the UK — **no sponsorship required**
+Frontend Developer with over 7 years of professional experience designing, developing, and maintaining modern web applications, alongside ongoing freelance development work since 2024. Highly skilled in React, React Native, TypeScript, JavaScript, Next.js, and Redux Toolkit, with a strong focus on creating responsive, high-performance user interfaces. Experienced in frontend optimisation, API integration, state management, and complex interactive features. Adept at collaborating with clients and development teams to deliver scalable, user-focused web and mobile solutions in agile environments.
 
 ## 🛠 Tech Stack
 
-- **Core Frontend:** React, TypeScript, JavaScript (ES6+), Next.js, Redux Toolkit / Redux
+- **Core Frontend:** React, React Native, TypeScript, JavaScript (ES6+), Next.js, Redux Toolkit/Redux
 - **UI & Styling:** HTML5, CSS3, SCSS, Tailwind CSS, Fabric.js, HTML5 Canvas
-- **Testing & Tooling:** Jest, Git, Webpack, Vite, ESLint, Postman, Figma
-- **APIs, Data & Platforms:** REST APIs, PostgreSQL (Neon), AWS Lambda, Vercel
+- **Testing & Tooling:** Jest, Git, GitHub Actions, Webpack, Vite, ESLint, Postman, Figma
+- **APIs, Data & Platforms:** REST APIs, PostgreSQL (Neon), AWS Lambda, Vercel, Vercel Blob
 - **Collaboration & Delivery:** Jira, Agile / Scrum
 
 ## 📌 Featured Project
